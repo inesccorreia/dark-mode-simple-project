@@ -1,4 +1,4 @@
-This simple project is called The "dark-mode-simple-project".
+This project is called The "dark-mode-simple-project".
 
 It was build with HTML, CSS and JavaScript.
 
